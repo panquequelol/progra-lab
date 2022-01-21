@@ -11,7 +11,7 @@ se importa *json* y *requests* para trabajar con las apis, *os* para usar colore
 
 Las apis que se usan son las siguientes:
 
-https://mindicador.cl/ para los indises de economia
+https://mindicador.cl/ para los indices de economia
 
 https://api-sismologia-chile.herokuapp.com/ para los ultimos 15 sismos
 
