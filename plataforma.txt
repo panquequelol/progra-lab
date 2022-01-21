@@ -1,0 +1,67 @@
+##########################
+Costo de vida en Chile
+##########################
+Un kilo de pan (1 kg) => 850.12 CLP
+Una docena de huevos => 2085.2 CLP
+Arroz (1kg) => 962.4 CLP
+Leche (1 litro) => 826.06 CLP
+Comprar vivienda en las afueras de la ciudad (precio por m2) => 1438266.7 CLP
+Comprar vivienda en el centro de la ciudad (precio por m2) => 178268.56 CLP
+Vivienda (3 habitaciones) en las afueras => 492588.4 CLP
+Vivienda (3 habitaciones) en centro de la ciudad => 561632.58 CLP
+Apartamento (1 dormitorio) en las afueras => 283394.72 CLP
+Apartamento (1 dormitorio) en el centro de la ciudad => 324553.36 CLP
+Salario (sueldo mensual) medio después de impuestos (neto) => 469474.76 CLP
+
+##########################
+Indicadores economicos
+##########################
+Ultimos datos registrados:
+Dólar observado: 813.46 Pesos (2022-01-20)
+Euro: 923.02 Pesos (2022-01-20)
+Bitcoin: 42381.48 Dólar (2022-01-18)
+Unidad de fomento (UF): 31124.53 Pesos (2022-01-20)
+Libra de Cobre: 4.39 Dólar (2022-01-20)
+Tasa de desempleo: 7.53 Porcentaje (2021-11-01)
+
+Hace 5 años:
+Dólar observado: 615.22 Pesos (2017-12-29)
+Euro: 735.21 Pesos (2017-12-29)
+Bitcoin: 13812.186666666666 Dólar (2017-12-31)
+Unidad de fomento (UF): 26798.14 Pesos (2017-12-31)
+Libra de Cobre: 2.95 Dólar (2017-12-07)
+Tasa de desempleo: 6.4 Porcentaje (2017-12-01)
+
+##########################
+Ultimos sismos en Chile
+##########################
+2.6 ML en 32 km al SO de Mina Collahuasi el 20/01/2022 
+ Imagen de referencia: http://sismologia.cl/2022/01/map_img/137698.jpeg
+3.2 ML en 93 km al O de Cobquecura el 20/01/2022 
+ Imagen de referencia: http://sismologia.cl/2022/01/map_img/137697.jpeg
+3.2 ML en 77 km al O de Cobquecura el 20/01/2022 
+ Imagen de referencia: http://sismologia.cl/2022/01/map_img/137695.jpeg
+3.0 ML en 73 km al SO de Tongoy el 20/01/2022 
+ Imagen de referencia: http://sismologia.cl/2022/01/map_img/137683.jpeg
+2.6 ML en 68 km al SO de Tongoy el 20/01/2022 
+ Imagen de referencia: http://sismologia.cl/2022/01/map_img/137682.jpeg
+3.3 ML en 17 km al NO de Punitaqui el 20/01/2022 
+ Imagen de referencia: http://sismologia.cl/2022/01/map_img/137669.jpeg
+3.0 ML en 48 km al N de Vallenar el 20/01/2022 
+ Imagen de referencia: http://sismologia.cl/2022/01/map_img/137666.jpeg
+3.9 ML en 90 km al NO de Quillagua el 20/01/2022 
+ Imagen de referencia: http://sismologia.cl/2022/01/map_img/137653.jpeg
+2.9 ML en 8 km al NO de Pozo Almonte el 20/01/2022 
+ Imagen de referencia: http://sismologia.cl/2022/01/map_img/137651.jpeg
+3.5 ML en 77 km al E de Socaire el 20/01/2022 
+ Imagen de referencia: http://sismologia.cl/2022/01/map_img/137642.jpeg
+2.8 ML en 61 km al SO de Ollagüe el 20/01/2022 
+ Imagen de referencia: http://sismologia.cl/2022/01/map_img/137640.jpeg
+4.3 ML en 79 km al SE de Ollagüe el 20/01/2022 
+ Imagen de referencia: http://sismologia.cl/2022/01/map_img/137628.jpeg
+2.5 ML en 81 km al SE de Socaire el 20/01/2022 
+ Imagen de referencia: http://sismologia.cl/2022/01/map_img/137624.jpeg
+2.8 ML en 47 km al S de Sierra Gorda. el 20/01/2022 
+ Imagen de referencia: http://sismologia.cl/2022/01/map_img/137614.jpeg
+2.6 ML en 57 km al SE de Socaire el 20/01/2022 
+ Imagen de referencia: http://sismologia.cl/2022/01/map_img/137609.jpeg

@@ -1,0 +1,11 @@
+Un kilo de pan (1 kg):1.06
+Una docena de huevos:2.6
+Arroz (1kg):1.2
+Leche (1 litro):1.03
+Comprar vivienda en las afueras de la ciudad (precio por m2):1793.35
+Comprar vivienda en el centro de la ciudad (precio por m2):222.28
+Vivienda (3 habitaciones) en las afueras:614.2
+Vivienda (3 habitaciones) en centro de la ciudad:700.29
+Apartamento (1 dormitorio) en las afueras:353.36
+Apartamento (1 dormitorio) en el centro de la ciudad:404.68
+Salario (sueldo mensual) medio después de impuestos (neto):585.38
