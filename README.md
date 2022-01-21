@@ -1,2 +1,2 @@
-# progra-lab
-Programa de Python sobre economia en Chile para Fundamentos de Computación y Programación
+# Laboratorio de Programacion
+Programa en Python sobre economia en Chile para Fundamentos de Computación y Programación
