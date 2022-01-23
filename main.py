@@ -17,7 +17,7 @@ print('##########################' +
       '\nY crea un archivo de texto \033[96m"plataforma.txt"\033[m con la informacion.\n')
 
 codigoISO = input(
-    '\033[34m¿En que moneda desea consultar el costos de vida en Chile?\033[m codigos ISO 4217 ej: CLP... ')
+    '\033[34m¿En qué moneda desea consultar el costo de vida en Chile?\033[m codigos ISO 4217 ej: CLP... ')
 
 print('\n\033[96m' + "Cargando" + '\033[m' + "... \n")
 
@@ -38,13 +38,13 @@ if len(codigoISO) == 3:
     salida.writelines(titulo('Costo de vida en Chile'))
     salida.writelines(costoDeVida(codigoISO))
     salida.writelines('\n')
-    salida.writelines(titulo('Indicadores economicos'))
+    salida.writelines(titulo('Indicadores económicos'))
     salida.writelines(indicadores())
     salida.writelines('\n')
-    salida.writelines(titulo('Ultimos sismos en Chile'))
+    salida.writelines(titulo('Últimos sismos en Chile'))
     salida.writelines(sismosInformacion())
     salida.close()
 
-    print('¡Archivo generado con exito!')
+    print('¡Archivo generado con éxito!')
 else:
-    print('Ingrese un codigo valido...\nEjecute el programa de nuevo.')
+    print('Ingrese un código válido...\nEjecute el programa de nuevo.')

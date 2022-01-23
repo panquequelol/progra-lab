@@ -1,7 +1,7 @@
 import json
 import requests
 
-# ! Conseguir ultimos 15 sismos desde API
+# ! Conseguir últimos 15 sismos desde API
 
 
 def api(url="https://api-sismologia-chile.herokuapp.com/"):
@@ -10,7 +10,7 @@ def api(url="https://api-sismologia-chile.herokuapp.com/"):
     pretty_json = json.dumps(data, indent=2)
     return data
 
-# ! Funcion a exportar
+# ! Función a exportar
 
 
 def sismosInformacion(data=api()):

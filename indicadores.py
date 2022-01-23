@@ -3,14 +3,14 @@ import requests
 
 
 # ! API
-# fecha especifica: https://mindicador.cl/api/{tipo_indicador}/{dd-mm-yyyy}
-# ultimos: https://mindicador.cl/api
+# fecha específica: https://mindicador.cl/api/{tipo_indicador}/{dd-mm-yyyy}
+# últimos: https://mindicador.cl/api
 def api(url="https://mindicador.cl/api"):
     response = requests.get(url)
     data = json.loads(response.text.encode("utf-8"))
     pretty_json = json.dumps(data, indent=2)
     return data
-# devuelve codigo, nombre, unidad_medida, fecha, valor
+# devuelve código, nombre, unidad_medida, fecha, valor
 
 
 # ! VARIABLES
@@ -41,11 +41,11 @@ fechaEspecifica = api(f'https://mindicador.cl/api/dolar/{year10ago}')
 fechaAhora = api()['fecha'][0:10]
 fechaAntes = fechaEspecifica['serie'][0]['fecha'][0:10]
 
-#! Funcion a exportar
+#! función a exportar
 
 
 def indicadores():
-    return ['Ultimos datos registrados:\n' +
+    return ['Últimos datos registrados:\n' +
             f'{ ahora("dolar") }\n' +
             f'{ ahora("euro") }\n' +
             f'{ ahora("bitcoin") }\n' +
