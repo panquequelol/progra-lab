@@ -1,22 +1,22 @@
-# Laboratorio de Programacion
-Programa en Python sobre economia en Chile para Fundamentos de Computación y Programación
+# Laboratorio de Programación
+Programa en Python sobre economía en Chile para Fundamentos de Computación y Programación
 
 # APIs externas
 Las apis que se usan son las siguientes:
 
-https://mindicador.cl/ para los indices de economia
+https://mindicador.cl/ para los indices de economía
 
-https://api-sismologia-chile.herokuapp.com/ para los ultimos 15 sismos
+https://api-sismologia-chile.herokuapp.com/ para los últimos 15 sismos
 
-https://free.currencyconverterapi.com/ para hacer conversion de divisas
+https://free.currencyconverterapi.com/ para hacer conversión de divisas
 
 # Manual de instalación de la aplicación:
-No es necesario descargar ninguna dependicia extra para correr el codigo, pero asegurese de tener descargado [Python](https://www.python.org/downloads/).
+No es necesario descargar ninguna dependicia extra para correr el código, pero asegúrese de tener descargado [Python](https://www.python.org/downloads/).
 
-Las unicas funcionalidades extra se consiguen importando *json* y *requests*, pero estas ya se encuentran incluidas en el archivo y *OS* para escribir texto de color en la terminal.
+Las únicas funcionalidades extra se consiguen importando *json* y *requests*, pero estas ya se encuentran incluidas en el archivo y *OS* para escribir texto de color en la terminal.
 
-1. Aprete el boton verde del repositorio que dice *Code*
-2. Descarge el codigo haciendo click en *Download ZIP*
+1. Aprete el botón verde del repositorio que dice *Code*
+2. Descarge el código haciendo click en *Download ZIP*
 3. Descomprima el archivo haciendo click *derecho > descomprimir*
 
 # Manual de uso de la aplicación:
@@ -28,7 +28,7 @@ Las unicas funcionalidades extra se consiguen importando *json* y *requests*, pe
 ```
 ¡Archivo generado con éxito!
 ```
-5. !Listo! se genero el archivo, podra ver algo asi en el archivo generado *(Ejemplo usando "CLP" como codigo ISO 4217)*
+5. !Listo! se generó el archivo, podrá ver algo así en el archivo generado *(Ejemplo usando "CLP" como código ISO 4217)*
 ![3-ejemplo-plataforma-CLP](https://github.com/caceresrene/progra-lab/blob/main/screenshots/3-ejemplo-plataforma-CLP.png?raw=true)
 
-**NOTA:** Si desea actualizar los precios mostrados puede hacerlo desde ```precios.txt``` escribiendo los nuevos valores a la izquierda del item despues de los ":"
+**NOTA:** Si desea actualizar los precios mostrados puede hacerlo desde ```precios.txt``` escribiendo los nuevos valores a la izquierda del ítem despues de los ":"
